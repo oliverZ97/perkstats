@@ -1,0 +1,10 @@
+{
+  "title": "perk_data",
+  "perks": [
+    {
+      "id": 1,
+      "name": "Brutal Strength",
+      "description": "I kill you"
+    }
+  ]
+}
